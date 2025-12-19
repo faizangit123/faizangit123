@@ -1,4 +1,8 @@
+<img src="https://github.com/user-attachments/assets/b8c76f5a-1266-42f3-899a-e936562faf51" alt="GitHub Banner" />
+
 ## Hi there 👋
+
+
 
 <!--
 **faizangit123/faizangit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
