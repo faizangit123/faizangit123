@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/b8c76f5a-1266-42f3-899a-e936562faf51" alt="GitHub Banner" />
 
-## Hi there 👋
+## What's up!👋
 
 
 
