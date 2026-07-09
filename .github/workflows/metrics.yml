@@ -2,8 +2,8 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # regenerate every 6 hours
-  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: faizangit123
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -28,20 +28,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_habits_charts: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://portfolio-five-pi-18bxzgejf.vercel.app/profile/Arthur101
-          plugin_music: yes
-          plugin_music_provider: apple
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_projects: yes
           config_timezone: Asia/Kolkata
