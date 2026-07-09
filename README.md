@@ -95,12 +95,10 @@ My personal portfolio — projects, resume and contact, built for speed and a cl
 <br/>
 
 
-## GitHub Metrics Dashboard
+GitHub Metrics Dashboard
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/faizangit123/faizangit123/main/github-metrics.svg" width="100%" alt="GitHub metrics dashboard" />
-
+<img src="https://raw.githubusercontent.com/faizangit123/faizangit123/main/github-metrics.svg" width="700" alt="GitHub metrics dashboard" />
 </div>
 
 > Auto-regenerated every 6 hours by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml). Covers commit habits, isometric contribution calendar, PageSpeed scores, most-used languages, mastered topics and more — all in one image.
