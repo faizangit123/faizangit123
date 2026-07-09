@@ -13,7 +13,7 @@
 <p>
   <a href="mailto:faizanrock705@gmail.com"><img src="https://img.shields.io/badge/-faizanrock705@gmail.com-333?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="tel:+918076503952"><img src="https://img.shields.io/badge/-+91_8076503952-333?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://portfolio-five-pi-18bxzgejf.vercel.app/profile/Arthur101"><img src="https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-five-pi-1kbxqgeljf.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </div>
@@ -62,7 +62,7 @@ Developer progress tracker — skills, projects, milestones, analytics. API-firs
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio](https://portfolio-five-pi-18bxzgejf.vercel.app/profile/Arthur101)
+### 🌐 [Portfolio](https://portfolio-five-pi-1kbxqgeljf.vercel.app/)
 My personal portfolio — projects, resume and contact, built for speed and a clean first impression.
 
 `React` `Tailwind` `Vercel`
@@ -120,7 +120,7 @@ My personal portfolio — projects, resume and contact, built for speed and a cl
 ### Let's build something
 
 <a href="mailto:faizanrock705@gmail.com"><img src="https://img.shields.io/badge/Email_me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-five-pi-18bxzgejf.vercel.app/profile/Arthur101"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfolio-five-pi-1kbxqgeljf.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
