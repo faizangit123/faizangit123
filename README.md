@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Faizan;Full+Stack+Web+Developer;React.js+%C2%B7+Python+%C2%B7+Django+%C2%B7+Node.js;Building+dynamic+websites+with+GSAP" />
@@ -122,4 +122,4 @@ GitHub Metrics Dashboard
 
 </div>
 
-<br/>
+<br/> -->
